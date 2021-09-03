@@ -9,4 +9,8 @@ commit test
 Add Line
 new branch line
  new line 123
+<<<<<<< HEAD
 new branch line
+=======
+message
+>>>>>>> 3f9509587230101bdf6a473f707f04a9c456a6e6
